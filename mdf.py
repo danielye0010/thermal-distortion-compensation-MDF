@@ -158,10 +158,7 @@ def mdf_align(design_pts, scanned_pts,
     aligned_pts = design_pts + displacement
     return aligned_pts, displacement
 
-
-# ===============================
-# Example usage / test script
-# ===============================
+# Usage 
 if __name__ == "__main__":
     # Generate synthetic design point cloud
     Lx, Ly, spacing = 200, 100, 20
