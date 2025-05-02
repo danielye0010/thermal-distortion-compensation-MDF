@@ -9,7 +9,6 @@ Chao Wang, Shaofan Li, Danielle Zeng, Xinhai Zhu,
 "Quantification and compensation of thermal distortion in additive manufacturing:
  A computational statistics approach", CMAME 2021, DOI: 10.1016/j.cma.2020.113611.
 
-Author: [Your Name]
 License: MIT
 """
 
