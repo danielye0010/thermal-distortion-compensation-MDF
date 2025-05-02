@@ -1,17 +1,3 @@
-"""
-Material Deformation Finding (MDF) Algorithm Implementation
-===========================================================
-
-This script implements a simplified statistical alignment method
-inspired by the MDF approach described in:
-
-Chao Wang, Shaofan Li, Danielle Zeng, Xinhai Zhu,
-"Quantification and compensation of thermal distortion in additive manufacturing:
- A computational statistics approach", CMAME 2021, DOI: 10.1016/j.cma.2020.113611.
-
-License: MIT
-"""
-
 import numpy as np
 import matplotlib.pyplot as plt
 from scipy.spatial import cKDTree
